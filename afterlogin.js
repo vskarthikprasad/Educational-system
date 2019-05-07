@@ -1,0 +1,242 @@
+function val()
+{
+    alert("Sucessfully submitted");
+}
+function button1()
+{
+    document.getElementById("home").style.display="block";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button2()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="block";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button3()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="block";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button4()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="block";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+       document.getElementById("acad").style.display="none";
+       document.getElementById("vib").style.display="none";
+}
+function button5()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="block";   
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button7()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="block";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button8()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="block";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button9()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="block";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button10()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="block";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button11()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="block";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button12()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="block";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button13()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="block";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="none";
+}
+function button14()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="block";
+    document.getElementById("vib").style.display="none";
+}
+function button15()
+{
+    document.getElementById("home").style.display="none";
+    document.getElementById("reg").style.display="none";
+    document.getElementById("about").style.display="none";
+    document.getElementById("profile").style.display="none";
+    document.getElementById("sem1").style.display="none";
+    document.getElementById("attendance").style.display="none";
+    document.getElementById("table").style.display="none";
+    document.getElementById("marks").style.display="none";
+    document.getElementById("grade").style.display="none";
+    document.getElementById("proc").style.display="none";
+    document.getElementById("my").style.display="none";
+    document.getElementById("msge").style.display="none";
+    document.getElementById("acad").style.display="none";
+    document.getElementById("vib").style.display="block";
+}
